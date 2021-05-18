@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jvh4070
+- 👋 Hi, I’m @Jvh4070, Jeroen (Rooney) van Heumen.
 - 👀 I’m interested in: A Junior Developer Role.
 - 🌱 I’m currently learning: JS/REACT FrontEnd.
 - 💞️ I’m looking to collaborate on: A website build with another developer. 
